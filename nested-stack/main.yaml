@@ -5,6 +5,7 @@ Parameters:
   S3BucketName:
     Description: S3 bucket name for the Nested Stacks. 
     Type: String
+    Default: my-aws-session-code
 
   AvailabilityZones:
     Type: List<AWS::EC2::AvailabilityZone::Name>
