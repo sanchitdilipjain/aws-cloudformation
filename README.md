@@ -1,4 +1,4 @@
-# awsugnsk-2021-08-28
+# aws-cloudformation
 
 AWS Cloudformation Introduction - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html
 
